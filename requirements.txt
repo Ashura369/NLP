@@ -4,3 +4,6 @@ scikit-learn
 ipykernel
 seaborn
 matplotlib
+autocorrect
+nltk
+emoji
