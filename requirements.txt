@@ -7,3 +7,4 @@ matplotlib
 autocorrect
 nltk
 emoji
+gensim
