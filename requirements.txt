@@ -8,3 +8,6 @@ autocorrect
 nltk
 emoji
 gensim
+
+# importing cleantext for stemming
+cleantext
